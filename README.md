@@ -6,8 +6,8 @@
 ------------------
 Outil(s) requis : Docker
 
-Téléchargez l'archive SAE_s4.zip et décompressez là.
-Ensuite, ouvrez un terminal et rendez vous dans le dossier SAE_s4.
+Téléchargez l'archive sur github et décompressez là.
+Ensuite, ouvrez un terminal et rendez vous dans le dossier décompressé.
 Puis, tapez **docker-compose up** pour lancer le projet.
 
 Le projet sera disponible à l'adresse localhost:8181
