@@ -6,13 +6,13 @@
 ------------------
 Outil(s) requis : Docker
 
-Téléchargez l'archive sur github et décompressez là.
+Téléchargez l'archive sur github et décompressez là. Ouvrez votre application docker desktop.
 Ensuite, ouvrez un terminal et rendez vous **dans** le dossier décompressé.
 Puis, tapez **docker-compose up** pour lancer le projet.
 
 Le projet sera disponible à l'adresse localhost:8181
 
-Pour arreter le docker, tapez **docker-compose stop**
+Pour arreter le docker, retournez dans votre terminal et tapez Ctrl+C ou réouvrez un autre terminal,puis tapez **docker-compose stop**
 
 ------------------
 ## Fonctionnement du projet
